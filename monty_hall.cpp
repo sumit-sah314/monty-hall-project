@@ -1,7 +1,3 @@
-// -----------------------------
-// monty_hall.cpp (FULLY DOCUMENTED)
-// -----------------------------
-
 /**
  * @file monty_hall.cpp
  * @brief Implements Monty Hall simulation, gameplay logic, and visual output.
